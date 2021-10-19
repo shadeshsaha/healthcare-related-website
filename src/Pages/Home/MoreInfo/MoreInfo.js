@@ -6,7 +6,7 @@ const MoreInfo = () => {
     return (
         <div className="container my-5">
             <h1 className="fw-bold">WE’VE ALWAYS GOT YOUR BACK!</h1>
-            <h5 className="text-muted my-4 lh-lg">It feels great when you know someone is there to listen to you. We at Calm Sage are not giving up until everyone <br /> dealing with mental health problems gets support!</h5>
+            <h5 className="text-muted my-4 lh-lg">It feels great when you know someone is there to listen to you. We at Kindness Yoga are not giving up until everyone <br /> dealing with mental health problems gets support!</h5>
 
             <div className="row my-5 gap-5">
                 <div className="col-md-3 col-sm-12 info-btn">
@@ -17,6 +17,15 @@ const MoreInfo = () => {
                 </div>
                 <div className="col-md-4 col-sm-12 info-btn">
                     <button className="info-btn">How Happy You are? Quize a Metere</button>
+                </div>
+                <div className="col-md-4 col-sm-12 info-btn">
+                    <button className="info-btn">Do everyday yoga and see the results</button>
+                </div>
+                <div className="col-md-4 col-sm-12 info-btn">
+                    <button className="info-btn">See what others say about yoga!!</button>
+                </div>
+                <div className="col-md-3 col-sm-12 info-btn">
+                    <button className="info-btn">Keep healthy by doing yoga</button>
                 </div>
 
             </div>

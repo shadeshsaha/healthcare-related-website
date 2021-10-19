@@ -1,5 +1,5 @@
 .banner {
-  background-image: url(../../../images/banner/home.gif);
+  background-image: url(../../../images/banner/home2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 800px;
@@ -36,7 +36,7 @@
 }
 
 .banner-btn:hover {
-  background-color: #510e57;
+  background-color: #0e5557;
   color: white;
 }
 

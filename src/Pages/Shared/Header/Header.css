@@ -1,9 +1,9 @@
 .navbar {
-  background-color: #510e57 !important;
+  background-color: #2eb8ac !important;
 }
 
 .font-color {
-  color: white !important;
+  color: rgb(14, 1, 1) !important;
   font-size: larger;
   font-weight: bold;
 }
@@ -18,4 +18,9 @@
 .font-color:hover {
   text-decoration: underline;
   text-decoration-color: orange;
+}
+
+.logo-yoga {
+  height: 40px;
+  width: 40px;
 }

@@ -5,14 +5,14 @@ const Banner = () => {
     return (
         <div className="banner">
             <div>
-                <h1 className="fw-bold lh-base font-monospace heading">Thousands of <br /> smiles delivered everyday</h1>
+                <h1 className="fw-bold lh-base font-monospace heading">Yoga is the journey of the self, <br /> through the self, to the self</h1>
                 <div>
                     <input className="banner-input mt-3" type="text" name="search" placeholder="Search.." />
                 </div>
                 <div class="container mt-5 extra-portion">
                     <div class="row">
                         <div class="col">
-                            <h2>Quick Search</h2>
+                            <h2 class="text-white">Quick Search:</h2>
                         </div>
                         <div class="col">
                             <button className="banner-btn">Anxiety</button>

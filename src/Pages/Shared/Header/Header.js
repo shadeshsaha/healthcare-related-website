@@ -2,7 +2,7 @@ import React from 'react';
 import { Button, Container, Nav, Navbar } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import useAuth from '../../../Hooks/useAuth';
-import logoImg from '../../../images/logo/calmsage.png';
+import logoImg from '../../../images/logo/kindness-yoga.jpg';
 import './Header.css';
 
 const Header = () => {
@@ -12,7 +12,7 @@ const Header = () => {
             <Navbar collapseOnSelect expand="lg" sticky="top" className="navbar">
                 <Container>
                     <Navbar.Brand as={Link} to="/home">
-                        <img src={logoImg} alt="" />
+                        <img src={logoImg} class="logo-yoga" alt="" />
                     </Navbar.Brand>
                     <Navbar.Toggle />
                     <Navbar.Collapse className="justify-content-end">

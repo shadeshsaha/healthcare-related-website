@@ -10,9 +10,9 @@ const Footer = () => {
                         <div className="row">
                             <div className="col-md-6 ">
                                 <div className="logo-part">
-                                    <img src="https://seeklogo.com/images/E/escola-saga-logo-B929652B99-seeklogo.com.png" alt="" className="w-50 logo-footer" />
-                                    <p>7637 Laurel Dr. King Of Prussia, PA 19406</p>
-                                    <p>North Docota, America.</p>
+                                    <img src="https://o.remove.bg/downloads/2bc92668-7bc8-4418-9d43-7c1dd77fef09/istockphoto-1205758627-612x612-removebg-preview.png" alt="" className="w-50 logo-footer" />
+                                    <p>2501 Dallas St #124, Aurora, CO 80010</p>
+                                    <p>Aurora, Colorado, United States.</p>
                                 </div>
                             </div>
                             <div className="col-md-6 px-4">
